@@ -1,16 +1,17 @@
-<<<<<<< HEAD
-# React + Vite
+### Motion Docs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal practice project built with React and Tailwind CSS.
+It features **draggable cards** created using Framer Motion.
 
-Currently, two official plugins are available:
+### 🛠️ Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React
+Tailwind CSS
+Framer Motion
 
-## Expanding the ESLint configuration
+### 📦 Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# motion-docs
->>>>>>> a5c297d89bc8fa2691221d192d942c9c4c6b163c
+git clone https://github.com/zaveriya-khan/motion-docs.git  
+cd motion-docs  
+npm install  
+npm start  
