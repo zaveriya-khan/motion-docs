@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.bg {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+::selection {
+  color: rgb(255, 0, 149);
+}
